@@ -32,6 +32,8 @@
 </tr>
 </table>
 
+🔥 [Презентация доклада](presentation-portirovanie-android-prilozhenii-v-ekosistemu-harmonyos-next_4k.pdf)
+
 | Папка | Компонент |
 |---|---|
 | [`employee-card`](employee-card) | Карточка сотрудника |
